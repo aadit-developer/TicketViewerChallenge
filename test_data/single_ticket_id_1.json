@@ -1,0 +1,69 @@
+[
+   {
+      "url":"https://zccaaditdim.zendesk.com/api/v2/tickets/1.json",
+      "id":1,
+      "external_id":null,
+      "via":{
+         "channel":"sample_ticket",
+         "source":{
+            "from":{
+               
+            },
+            "to":{
+               
+            },
+            "rel":null
+         }
+      },
+      "created_at":"2021-11-25T04:58:16Z",
+      "updated_at":"2021-11-25T04:58:17Z",
+      "type":"incident",
+      "subject":"Sample ticket: Meet the ticket",
+      "raw_subject":"Sample ticket: Meet the ticket",
+      "description":"Hi there,\n\nI\u2019m sending an email because I\u2019m having a problem setting up your new product. Can you help me troubleshoot?\n\nThanks,\n The Customer\n\n",
+      "priority":"normal",
+      "status":"open",
+      "recipient":null,
+      "requester_id":1524278544441,
+      "submitter_id":1910423064425,
+      "assignee_id":1910423064425,
+      "organization_id":null,
+      "group_id":4414085495191,
+      "collaborator_ids":[
+         
+      ],
+      "follower_ids":[
+         
+      ],
+      "email_cc_ids":[
+         
+      ],
+      "forum_topic_id":null,
+      "problem_id":null,
+      "has_incidents":false,
+      "is_public":true,
+      "due_at":null,
+      "tags":[
+         "sample",
+         "support",
+         "zendesk"
+      ],
+      "custom_fields":[
+         
+      ],
+      "satisfaction_rating":null,
+      "sharing_agreement_ids":[
+         
+      ],
+      "fields":[
+         
+      ],
+      "followup_ids":[
+         
+      ],
+      "ticket_form_id":1500003312021,
+      "brand_id":1500002346041,
+      "allow_channelback":false,
+      "allow_attachments":true
+   }
+]
