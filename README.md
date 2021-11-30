@@ -18,16 +18,14 @@ Credentials have already been added in the ticketsViewer.py file
 
 ## Run:
 ``` bash
-python ticketsViewer.py file
+python ticketsViewer.py
 ```
 
 ## Modules:
 1. test.py contains all the test-cases written using Unittest package that check the correctness and working\
-code\
-2. ticketsViewer.py contains all the operations that need to be done\
-3. on the API in order to view tickets along with particular format\
-and paging.\
-4. test_data folder contains dummy test data which can be used to\
+code.
+2. ticketsViewer.py contains all the operations that need to be done on the API in order to view all tickets or single ticket data with proper pagination integration.
+3. test_data folder contains dummy test data which can be used to
 compare the output of the test-cases and verify its working.
 
 ## Error Handling:
