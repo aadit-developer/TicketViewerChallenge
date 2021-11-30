@@ -2,7 +2,7 @@
 
 Installation:\
 Install requirements.txt
-Using pip install -r requirements.txt
+using pip install -r requirements.txt
 
 Libraries to be imported:\
 import requests\
